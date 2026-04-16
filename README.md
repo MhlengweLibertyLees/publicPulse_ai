@@ -1,4 +1,4 @@
-#PublicPulse AI – Smart Public Service Intelligence System
+# PublicPulse AI – Smart Public Service Intelligence System
 Project Description
 PublicPulse AI is a full-stack citizen complaint intelligence platform built with PHP, MySQL, and a rule-based AI engine. It enables citizens to report public service issues (water, electricity, roads, waste, safety, health, housing, education), empowers administrators with real‑time analytics, and provides data analysts with trend detection, hotspot mapping, and predictive insights. The system includes role‑based dashboards, live geolocation mapping, AI‑driven anomaly detection, notification management, user administration, category management, and exportable reporting.
 
