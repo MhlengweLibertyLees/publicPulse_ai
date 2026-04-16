@@ -1,7 +1,7 @@
 # AI ENGINE Documentation
 
 ## Overview
-The Rule-Based AI Engine is designed to help organizations analyze and interpret data to make informed decisions. This documentation covers the core functionalities of the AI engine, including hotspot detection, trend analysis, predictive recurrence, anomaly detection, and risk scoring algorithms.
+The Rule-Based AI Engine is designed to help organizations analyze and interpret data to make informed decisions. This documentation covers the core functionalities of the AI engine, including hotspot detection, trend analysis, predictive recurrence, anomaly detection, and risk scoring algorithms..
 
 ## Hotspot Detection
 Hotspot detection involves identifying areas of interest in the data that demonstrate significant activity or unusual patterns. The AI engine uses a combination of statistical analysis and specific heuristics to pinpoint these hotspots. 
@@ -39,7 +39,7 @@ Anomaly detection is critical for identifying data points that significantly dev
 ## Risk Scoring Algorithms
 Risk scoring algorithms provide a quantifiable measure of risk associated with specific activities or decision-making processes. They are essential for risk management strategies in organizations.
 
-### Components
+### Components.
 - **Risk Identification**: Analyze historical data to identify potential risks.
 - **Scoring Criteria**: Establish criteria based on factors like frequency of occurrence, severity, and impact.
 - **Scoring Implementation**: Each identified risk is scored, allowing organizations to prioritize their response strategies based on overall risk assessment.
